@@ -1,6 +1,6 @@
 {
   "author" : "Cyan Sky Knight",
-  "description" : "This mod is for those using Make the Saturnians a Cuter Yet Mothy Race and Armor Adapt. It patches Saturnians to use standard size hats instead of the larger ones made for the default moth heads.",
+  "description" : "This mod is for those using Make the Saturnians a Cuter Yet Mothy Race and Armor Adapt. It tells Armor Adapt to use standard, vanilla shaped hats for Saturnians instead of the larger ones made for the base Saturnian mod's moth heads. Note that Armor Adapt support is included with the base Saturnians mod, so only use this mod if you are running a mod that makes Saturnians more humanoid.",
   "friendlyName" : "Humanoid Saturnian Patch for Armor Adapt",
   "requires" : ["saturnians"],
   "name" : "saturnAAhuman",
